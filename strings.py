@@ -1,3 +1,8 @@
+import os
+
+os.system("clear")
+
+
 def main():
     message = "Hello World"
     print(message)
