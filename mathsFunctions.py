@@ -1,4 +1,4 @@
-import math
+import math  # always remember to import this lib
 import os
 
 os.system("clear")
